@@ -36,7 +36,7 @@ I enjoy solving complex problems, writing clean Object-Oriented code, building d
 
 ### 🌟 Featured Projects
 
-* **[🧠 Expert Hub](https://github.com/Aleks29920200/ExpertHub)** - A dynamic platform designed to connect users with professionals and services, showcasing strong full-stack integration and database management.
+* **[🧠 Expert Hub](https://github.com/Aleks29920200/Expert-Hub)** - A dynamic platform designed to connect users with professionals and services, showcasing strong full-stack integration and database management.
 * **[💇‍♀️ Beauty Salon](https://github.com/Aleks29920200/BeautySalon)** - A comprehensive Spring Boot application for managing salon appointments, services, and staff roles.
 * **[✈️ Dream Trip Planner](https://github.com/Aleks29920200/DreamTripPlanner)** - An ASP.NET Core MVC application integrated with **Azure Pipelines** for automated CI/CD workflows.
 * **[📚 Library Management](https://github.com/Aleks29920200/LibraryManagement)** - A robust Java system for tracking book inventory, member loans, and return dates.
